@@ -1,0 +1,57 @@
+(
+	default_img: "default.jpg",
+	name: "Miscellaneous",
+	sounds: [
+		(
+			name: "WAH",
+			wav: "waluigi_wah.mp3",
+			img: None
+		),
+		(
+			name: "Zeus!",
+			wav: "zeus.mp3",
+			img: None
+		),
+		(
+			name: "Our anthem",
+			wav: "National Anthem of USSR.mp3",
+			img: Some("USSR.jpg")
+		),
+		
+		(
+			name: "Enthusiasm",
+			wav: "enthusiasm.mp3",
+			img: None
+		),
+		(
+			name: "Just do it",
+			wav: "just do it.mp3",
+			img: None
+		),
+		(
+			name: "Mio honda",
+			wav: "MioHonda.wav",
+			img: None
+		),
+		(
+			name: "Fix you",
+			wav: "FixYou.wav",
+			img: None
+		),
+		(
+			name: "Never gonna",
+			wav: "NeverGonna.wav",
+			img: None
+		),
+		(
+			name: "You know the rules",
+			wav: "YouKnowTheRules.wav",
+			img: None
+		),
+		(
+			name: "Rick roll start",
+			wav: "RICKROLL_INIT.wav",
+			img: None
+		)
+	]
+)
