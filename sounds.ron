@@ -52,6 +52,11 @@
 			name: "Rick roll start",
 			wav: "RICKROLL_INIT.wav",
 			img: None
+		),
+		(
+			name: "SANS",
+			wav: "SANS.mp3",
+			img: None
 		)
 	]
 )
