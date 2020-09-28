@@ -1,5 +1,5 @@
 (
-	default_img: "default.jpg",
+	default_img: "default.png",
 	name: "Miscellaneous sounds",
 	sounds: [
 		(
