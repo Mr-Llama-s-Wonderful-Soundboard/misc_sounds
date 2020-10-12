@@ -57,6 +57,11 @@
 			name: "SANS",
 			wav: "SANS.mp3",
 			img: None
+		),
+		(
+			name: "Giorno's Theme",
+			wav: "giorno's theme.wav",
+			img:None
 		)
 	]
 )
