@@ -61,7 +61,7 @@
 		(
 			name: "Giorno's Theme",
 			wav: "giorno's theme.wav",
-			img:None
+			img: None
 		)
 	]
 )
